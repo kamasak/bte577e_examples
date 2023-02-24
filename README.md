@@ -12,6 +12,7 @@ If you see any error, please send an email.
 - Simple linear regression with pyTorch library [simple_linear_regression_torch.ipynb](scripts/simple_linear_regression_torch.ipynb)
 
 ### Data preprocessing
+- Outlier detection using dbscan [dbscan.ipynb](notebooks/dbscan.ipynb)
 - Filling empty values [fill_empty_values.ipynb](notebooks/fill_empty_values.ipynb)
 - Data distribution transformation [rv_transform.ipynb](notebooks/rv_transform.ipynb)
 
