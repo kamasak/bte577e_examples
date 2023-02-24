@@ -4,7 +4,7 @@ Notebooks that we have covered in the lectures are given here.
 
 If you see any error, please send an email.
 
-**Notebook and script files**
+### Unclassified
 - Naive Bayes demo [naive_bayes.ipynb](notebooks/naive_bayes.ipynb)
 - Naive Bayes demo with Iris data [naive_bayes_iris.ipynb](notebooks/naive_bayes_iris.ipynb)
 - Birthweight data demo [birthweight.ipynb](notebooks/birthweight.ipynb)
@@ -22,4 +22,7 @@ If you see any error, please send an email.
 
 **TODO**
 - Todo list comes here!
+[ ] Visualization notebook
+[ ] Data description notebooks
+[ ] Outlier detection and handling notebooks 
 
