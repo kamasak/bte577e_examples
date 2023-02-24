@@ -22,7 +22,7 @@ If you see any error, please send an email.
 
 **TODO**
 - Todo list comes here!
-[ ] Visualization notebook
-[ ] Data description notebooks
-[ ] Outlier detection and handling notebooks 
+- [ ] Visualization notebook
+- [ ] Data description notebooks
+- [ ] Outlier detection and handling notebooks 
 
