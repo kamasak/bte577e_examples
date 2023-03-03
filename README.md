@@ -13,6 +13,7 @@ If you see any error, please send an email.
 
 ### Data preprocessing
 - Data normalization [data_normalization.ipynb](notebooks/data_normalization.ipynb)
+- Data standardization [data_standardization.ipynb](notebooks/data_standardization.ipynb)
 - Outlier detection using dbscan [dbscan.ipynb](notebooks/dbscan.ipynb)
 - Filling empty values [fill_empty_values.ipynb](notebooks/fill_empty_values.ipynb)
 - Data distribution transformation [rv_transform.ipynb](notebooks/rv_transform.ipynb)
